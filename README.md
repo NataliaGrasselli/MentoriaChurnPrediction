@@ -15,4 +15,4 @@ Profesora: Yanina Iberra
 
 Entregables: 
 
-01: Analisis y Exploración
+* 01: Analisis y Exploración
